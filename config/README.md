@@ -14,4 +14,4 @@ Configurations for Ender 3 Pro with the following options enabled:
   - Extruder Auto Fan at 50C (Fan connected to Pin P2_04 HE1)
 
 I may have some other options enabled that I don't remember so be careful to check everything that corresponds to your machine.
-## https://github.com/MarlinFirmware/Configurations/archive/release-2.0.8.2.zip
+## https://github.com/MarlinFirmware/Configurations/archive/release-2.0.9.3.zip
