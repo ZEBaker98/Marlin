@@ -524,9 +524,9 @@
     #define DEFAULT_Ki_LIST {   1.08,   1.08 }
     #define DEFAULT_Kd_LIST { 114.00, 114.00 }
   #else
-    #define DEFAULT_Kp 23.63
-    #define DEFAULT_Ki 2.80
-    #define DEFAULT_Kd 49.91  
+    #define DEFAULT_Kp 37.86
+    #define DEFAULT_Ki 6.71
+    #define DEFAULT_Kd 53.40  
   #endif
 #endif // PIDTEMP
 
@@ -564,9 +564,9 @@
   //#define PID_BED_DEBUG // Sends debug data to the serial port.
 
   // DC 24V 220W heater into 4mm borosilicate
-  #define DEFAULT_bedKp  81.10
-  #define DEFAULT_bedKi  15.23
-  #define DEFAULT_bedKd 287.90
+  #define DEFAULT_bedKp 103.85
+  #define DEFAULT_bedKi 20.32
+  #define DEFAULT_bedKd 353.77
 
   // FIND YOUR OWN: "M303 E-1 C8 S90" to run autotune on the bed at 90 degreesC for 8 cycles.
 #endif // PIDTEMPBED
